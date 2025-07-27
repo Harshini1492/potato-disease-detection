@@ -1,0 +1,4 @@
+*.pb linguist-detectable=false
+*.js linguist-detectable=false
+*.java linguist-detectable=false
+*.m linguist-detectable=false
